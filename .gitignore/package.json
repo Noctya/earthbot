@@ -1,0 +1,14 @@
+{
+  "name": "EarthBot",
+  "version": "1.0.0",
+  "description": "un bot qui marche bien",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo "Error: no test specified" && exit 1"
+  },
+  "author": "Noctya",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^11.4.2",
+  }
+}
