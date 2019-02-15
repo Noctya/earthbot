@@ -1,0 +1,16 @@
+{
+  "name": "earthbot",
+  "version": "1.0.0",
+  "description": "très bon bot grace a sysy sysy242",
+  "main": "index.js",
+  "dependencies": {
+    "discord.js": "^11.4.2",
+    "pkg": "^4.3.7"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Noctya",
+  "license": "ISC"
+}
